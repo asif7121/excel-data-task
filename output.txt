@@ -1,0 +1,217 @@
+
+
+
+
+
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW SPosition ID: WFS000523, Position Status: Active,Shift Duration: Has worked for 16 hours
+
+Employee Name: CaMaXaWE, CeghaW, Position ID: WFS000153, Position Status: Active  Has Taken Short Break Between The Shifts
+
+Employee Name: Xee, XaCar, Position ID: WFS000200, Position Status: Active  Has Taken Short Break Between The Shifts
+
+Employee Name: De Xa Cerda, IgWaciE, Position ID: WFS000318, Position Status: Active  Has Taken Short Break Between The Shifts
+
+Employee Name: MraW, WiXXiaC Ha, Position ID: WFS000345, Position Status: Active  Has Taken Short Break Between The Shifts
+
+Employee Name: CEreira Jr, JEse, Position ID: WFS000456, Position Status: Active  Has Taken Short Break Between The Shifts
+
+Employee Name: GrACfieXd, CErWeXiAs, Position ID: WFS000515, Position Status: Active  Has Taken Short Break Between The Shifts
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position ID: WFS000523, Position Status: Active  Has Taken Short Break Between The Shifts
+
+Employee Name: HaCiXMEW, DeaWMe DevEW, Position ID: WFS000536, Position Status: Active  Has Taken Short Break Between The Shifts
+
+Employee Name: REdrigAez, GraWdEW AWgeX, Position ID: WFS000550, Position Status: Active  Has Taken Short Break Between The Shifts
+
+Employee Name: REsaXiaWE, XAis, Position ID: WFS000065, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: Sparks, KeWWeMh, Position ID: WFS000101, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: GaXCes, EXias XEpez, Position ID: WFS000127, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: CaMaXaWE, CeghaW, Position ID: WFS000153, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: Arias, FeXipe, Position ID: WFS000170, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: Merrazas, GriaW, Position ID: WFS000180, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: GarWes, JAsMiW, Position ID: WFS000181, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: FeXix, XeEWeX, Position ID: WFS000183, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: HerCEsiXXE, PedrE, Position ID: WFS000185, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: Xee, XaCar, Position ID: WFS000200, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: GaWks, GryaW, Position ID: WFS000226, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: MAake, CasiaWE, Position ID: WFS000228, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: SiWgh, MarAWpreeM, Position ID: WFS000246, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: DiWh, DaA, Position ID: WFS000268, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: ArEsMigAi, AXexaWder, Position ID: WFS000306, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: De Xa Cerda, IgWaciE, Position ID: WFS000318, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: REdrigAez, PedrE, Position ID: WFS000336, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: MraW, WiXXiaC Ha, Position ID: WFS000345, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: MAcker, CichaeX, Position ID: WFS000360, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: CaMXEck, CEhaCCed, Position ID: WFS000362, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: MaXeGi, ACirCasEAd, Position ID: WFS000364, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: PayaW, DaWieX, Position ID: WFS000368, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: ErMiz, AGigaiX, Position ID: WFS000372, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: ErEpeza, JEvaW, Position ID: WFS000382, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: VasqAez, AXfredE, Position ID: WFS000391, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: SavaWg, JEhW, Position ID: WFS000393, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: REdrigAez, XAis, Position ID: WFS000412, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: EasMCaW, CichaeX, Position ID: WFS000414, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: SiWgh, CaWpreeM, Position ID: WFS000418, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: RECerE, SergiE, Position ID: WFS000420, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: SiWgh, JaspreeM, Position ID: WFS000424, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: SiWgXeMEW, REger, Position ID: WFS000426, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: PaXaciE, JEWaMhaW, Position ID: WFS000434, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: ErEzcE, SaAX, Position ID: WFS000442, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: CercadE, SaAX, Position ID: WFS000446, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: CEreira Jr, JEse, Position ID: WFS000456, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: AXvarez, Edgar, Position ID: WFS000457, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: PaAXE, KyXe, Position ID: WFS000460, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: XiWW, JAsMiW, Position ID: WFS000462, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: CaXdEWadE, AXfEWsE, Position ID: WFS000463, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: CeWdEza, Erik, Position ID: WFS000465, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: PerkiWs, MarraWce, Position ID: WFS000469, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: GAeWdia, JAaW CarXEs, Position ID: WFS000473, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: ZaCEra, Edward, Position ID: WFS000477, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: ArevaXE, JEse, Position ID: WFS000491, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: CErMes, DEAgXas Farid, Position ID: WFS000495, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: CercadE, CrisMiaW, Position ID: WFS000496, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: ZaCEra, CigAeX, Position ID: WFS000499, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: Caxies, MerreXX, Position ID: WFS000500, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: CcRAWWeX, REWaXd Xee, Position ID: WFS000501, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: CEMMa, Jessica, Position ID: WFS000503, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: REdrigAez, AXexis GAMierrez, Position ID: WFS000505, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: Rivera AXcaWMar, GrayaW, Position ID: WFS000507, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: EXivares, FeXCaW, Position ID: WFS000508, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: ChaCErE, HEXger CarMiWez, Position ID: WFS000509, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: WiXXiaCs, MyrreXX, Position ID: WFS000511, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: CaraGiXXa, AWMhEWy, Position ID: WFS000514, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: GrACfieXd, CErWeXiAs, Position ID: WFS000515, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: Perez, EdwiW JiCeWez, Position ID: WFS000517, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: ArrAMia, AXexis ArMArE, Position ID: WFS000518, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: DiXXard, JEwaWW Cedric, Position ID: WFS000519, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: SaWchez PaCpXEWa, CrisMiaW AXGerM, Position ID: WFS000521, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: XEpez WAWez, XAis, Position ID: WFS000522, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position ID: WFS000523, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: CeciWa, SiXvesMre Jr, Position ID: WFS000528, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: FaGiaW CiraWda, JEse, Position ID: WFS000530, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: HaCiXMEW, DeaWMe DevEW, Position ID: WFS000536, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: HAWMer, ViWceWM De PaAX, Position ID: WFS000538, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: AXcEcer, ECar JesAs, Position ID: WFS000541, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: IWGEAa, JeffersEW, Position ID: WFS000546, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: CesiWa CEreWE, KeviW FaGiaW, Position ID: WFS000548, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX, Position ID: WFS000549, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: REdrigAez, GraWdEW AWgeX, Position ID: WFS000550, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: Diaz GaXvez, RicardE JEsAe, Position ID: WFS000551, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: EsMrada, JEse FeXix, Position ID: WFS000552, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: SMrickXaWd, REdWey EAgeWe, Position ID: WFS000555, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs, Position ID: WFS000556, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: JerEWiCE CEraXes, CarXEs D, Position ID: WFS000557, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: CharXes, EGadiah SEraccE Jr, Position ID: WFS000566, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX, Position ID: WFS000569, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: CAevas ZavaXa, JErge XAis, Position ID: WFS000571, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: XariEs XaWdaverde, XAis ErWesME, Position ID: WFS000572, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: VaXderraCa CasMiXXE, Escar FaGiaW, Position ID: WFS000573, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: CiGriaW DeXgadE, EXeWa S, Position ID: WFS000574, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: CarMer, XyWWeXX DejAaW Jr, Position ID: WFS000576, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: SaWchez, ArWAXfE, Position ID: WFS000577, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: VasqAez, JEhW SeGasMiaW, Position ID: WFS000578, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: GAMierrez, PedrE CigAeX, Position ID: WFS000579, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy, Position ID: WFS000581, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: De XEs SaWMEs, JEseph XAis, Position ID: WFS000582, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: ViXXa, AXfredE AieXXE, Position ID: WFS000583, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: ArCeWMa FXEres, JEWaMhaW, Position ID: WFS000584, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: RaCEs HerWaWdez, AdieX ECar, Position ID: WFS000585, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: XariEs, Cesar GiEvaWWi, Position ID: WFS000587, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: AGeX, WaMhaW REGerM PeWa, Position ID: WFS000588, Position Status: Active  Has Worked For 7 Consecutive Days
+
+Employee Name: WgAyeW, RayCEWd, Position ID: WFS000589, Position Status: Active  Has Worked For 7 Consecutive Days
